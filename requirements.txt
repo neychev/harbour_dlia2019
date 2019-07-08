@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+matplotlib
+sklearn
+seaborn
+tqdm
+ipywidgets
+torch
+torchvision
+nltk
+bokeh
+shap
